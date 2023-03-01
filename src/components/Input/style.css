@@ -1,0 +1,9 @@
+input{
+    width: 250px;
+    margin-top: 15px;
+    border-radius: 5px;
+    
+}
+input:focus{
+    border: 6px solid #02ff38;
+}
